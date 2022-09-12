@@ -1,3 +1,6 @@
 # my_first
 my_first_repository
-Adding text to this file.
+
+##ADDING TEXT TO THIS FILE.
+
+This is the added text.
